@@ -1,0 +1,22 @@
+{
+    "name": "DVContainerSO",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e7d6513d4619e9a4f941a0d8d9aedf0a",
+        "GUID:1347b23e87cb7f245bbd0991f4f518fd",
+        "GUID:142bebaab62a4c94aab40b356dae778b",
+        "GUID:7febf2db9a3f53b4b8792f320964a780",
+        "GUID:3419edf484d8d4f4b89defe24e6236f6",
+        "GUID:30480bc4de24b454889267596505d0a2",
+        "GUID:619ca0c221b96bd479538ccb46c4a6cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
