@@ -12,11 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5915e12ac0681e4d97bc835da500cc8, type: 3}
   m_Name: Enemy Weapon Config
   m_EditorClassIdentifier: 
-  Name: Enemy Weapon
-  Type: 
-  Icon: {fileID: 0}
-  MaxStackCount: 1
   IsMelee: 1
   Damage: 25
-  DurationOfAttack: 2
-  WeaponPrefab: {fileID: 0}
+  DurationOfAttack: 3
